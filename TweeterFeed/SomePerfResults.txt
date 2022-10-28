@@ -1,0 +1,36 @@
+SEQUENTIAL
+MIN: 0.0063746s       -----> @4Ronnin https://t.co/2ia5jEkweX
+MAX: 2.4297315s       -----> @JJansaSDS Tole je pa res veleškandal epskih razsežnosti -_-
+In bolj kot se bo Janša ukvarjal z Golobom, več glasov bo 🐦 dobil, ker bodo vsi ti "sredinsko levi" volivci dobivali od Janeza signale koga naj volijo.
+MEDIAN: 0.280737299s    -----> RT @Demokracija1: Predsednik vlade @JJansaSDS se je srečal s predsednico Evropskega parlamenta Roberto Metsola
+https://t.co/xqAuLDfVEK http…
+AVG: 0.4296747s
+SD: 0.4223880451457204
+Tweets per second: 2.326493965366082
+Number of negative tweets: 5
+Number of neutral tweets:  88
+Number of positive tweets: 7
+
+PARALLEL
+MIN: 0.0167029s       -----> @MetkaSmole Kriv Janša?
+MAX: 6.7258842s       -----> @JJansaSDS Tole je pa res veleškandal epskih razsežnosti -_-
+In bolj kot se bo Janša ukvarjal z Golobom, več glasov bo 🐦 dobil, ker bodo vsi ti "sredinsko levi" volivci dobivali od Janeza signale koga naj volijo.
+MEDIAN: 0.962160499s    -----> @jansa_dior @CjelskiPob Točno to, slovenske novice so nepomembne. Globalne dosti bolj, saj si nažalost ne krojimo več sami usode...sploh pa zdaj..🤐🥴🤢
+AVG: 1.483290354s
+SD: 1.440616400693962
+Tweets per second: 5.170151922949598
+Number of negative tweets: 5
+Number of neutral tweets:  88
+Number of positive tweets: 7
+
+DISTRIBUTED
+MIN: 0.0211094s       -----> Brez komentarja. https://t.co/BxAMGqPPaF
+MAX: 9.8531359s       -----> @JJansaSDS Tole je pa res veleškandal epskih razsežnosti -_-
+In bolj kot se bo Janša ukvarjal z Golobom, več glasov bo 🐦 dobil, ker bodo vsi ti "sredinsko levi" volivci dobivali od Janeza signale koga naj volijo.
+MEDIAN: 1.4284806s    -----> RT @p_zoran: V bistvu pa gre za tole - ko Janša retvita take neumnosti, je vse jasno. Ena sama manipulacija, dovoljena so vsa sredstva, nič…
+AVG: 2.168790271s
+SD: 2.1417269760949162
+Tweets per second: 3.108810616125663
+Number of negative tweets: 5
+Number of neutral tweets:  88
+Number of positive tweets: 7
